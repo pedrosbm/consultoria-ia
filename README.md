@@ -1,39 +1,23 @@
-Analise e Desenvolvimento de Sistemas 2TDSB.
+# Consultoria ia - NovaTech solutions
 
-- integrantes da equipe:<br>
-```
-Arthur Koga      RM99503
-Gabriel Benjamim RM552254
-Henry Ribeiro    RM550684
-Murilo José      RM99538
-Pedro Sena       RM98021
-```
+### integrantes da equipe:<br>
 
+|Rm|Nome|
+|--|--|
+RM99503|Arthur Koga
+RM552254|Gabriel Benjamim
+RM550684|Henry Ribeiro
+RM99538|Murilo José
+RM98021|Pedro Sena
 
-- Descrição do problema...
-Definição do problema:
-1. A empresa gostaria de saber se é possível traçar alguma estratégia comum para
-cada grupo de cliente, no entanto essa análise nunca foi feita e ninguém, até o
-momento, sabe ao certo qual seria a melhor forma de conseguir realizar esse tipo de
-análise. Hoje, no conjunto de dados, não existem informações claras relativas ao
-segmento do cliente ou tamanho, apenas dados relativos ao faturamento, ano de
-fundação, endividamento e etc.
-• Isso ajudaria muito os times de marketing e análise de crédito;
+## Consultoria
 
+O nosso cliente é a ABX Tecnologia, e a empresa gostaria de saber se é possível traçar alguma estratégia para facilitar o trabalho dos analistas dela no processo de aprovação de créditos para empresas clientes. 
+Atualmente sempre que uma nova solicitação é feita, ela passa pelos analistas de crédito da WTec, mas a análise não e feita de forma uniforme e varia muito dependendo do cliente.
 
-2. Um problema já mapeado é o que fazer após a geração desses grupos quando
-chegar um novo cliente solicitando um novo crédito?
-• Como seria possível indicar o grupo desse cliente sem ter que refazer todos os
-grupos?
+Considerando o problema de análise de crédito da empresa, e a base de dados que obtemos, chegamos a conclusão de que seria interessante criar uma solução SAAS(software as a serviçe), destinada
+aos analistas da empresa para acelerar o processo de aprovação de crédito baseada em inteligência artificial.
 
+## Nossa solução
 
-3. A empresa deseja, entre outras coisas, criar um “robô automatizado” (na linguagem
-da própria empresa), que realize uma recomendação de crédito para que os analistas
-se baseiam nessa recomendação para conceder o limite máximo de crédito.
-• Vale salientar que por se tratar de valores monetários é importante que este
-modelo tenha um bom desempenho;
-
-
-
-
-- Proposito do projeto...
+Para solucionar o problema de análise de crédito da empresa, criamos o Credit.AI, um software baseado em ia feito para trazer quantidades recomendadas de créditos com base no perfil do cliente.
